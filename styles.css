@@ -1,6 +1,7 @@
 .main{
 	display:flex;
 	justify-content:space-between;
+	flex-wrap:wrap;
 }
 .item1{
 	font-size:30px;
